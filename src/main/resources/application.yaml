@@ -1,0 +1,5 @@
+---
+
+spring:
+  jmx.enabled: false
+  main.banner_mode: "OFF"
